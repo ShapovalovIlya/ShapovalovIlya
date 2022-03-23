@@ -4,9 +4,7 @@
 
 [![codewars](https://www.codewars.com/users/ShapovalovIlya/badges/large)](https://www.codewars.com/users/ShapovalovIlya)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ShapovalovIlya=dark)](https://github.com/ShapovalovIlya/leetcode-stats)
-
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ShapovalovIlya)](https://github.com/ShapovalovIlya/github-readme)
 
 
 <!---
