@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShapovalovIlya
 - 👀 I’m interested in development with Swift
 - 📫 How to reach me greateman@mail.ru
-- My telegramm https://t.me/ShapovalovIlia
+- My telegram https://t.me/ShapovalovIlia
 
 [![codewars](https://www.codewars.com/users/ShapovalovIlya/badges/large)](https://www.codewars.com/users/ShapovalovIlya)
 
